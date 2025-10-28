@@ -1,2 +1,0 @@
-edad= int (input("cual es tu edad?:  "))
-print ("tendras  dentro de 10 años  la edad de:", edad+10)
