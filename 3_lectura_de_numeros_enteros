@@ -1,2 +1,6 @@
 edad= int (input("cual es tu edad?:  "))
+<<<<<<< HEAD
 print ("tendras  dentro de 10 años  la edad de:", edad+10)
+=======
+print ("tendras  dentro de 10 años  la edad de:", edad+10)
+>>>>>>> 316e013ecdcb180aa5636b0655de8a7a9682d146
