@@ -1,0 +1,4 @@
+#sumaremos altura de dos  persona
+Altura1= float (input("cuanto mides ?EN METROS:  "))
+Altura2= float (input("cuanto mide la otra persona? EN METROS: "))
+print ("la suma de las 2 alturas son:", Altura1+Altura2, "metros")

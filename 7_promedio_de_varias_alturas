@@ -1,0 +1,12 @@
+#teniendo en cuenta la otra formula podremos hacer el prodremos hacer este ejercicio
+#promedio= (altura1+altura2+altura3..... y haci con la cantidad de altura que queramos)/catidad de alturas
+#ejemplo si son 7 alturas dividiremos por la cantidad osea 7
+
+print ("calcularemos el promedio de 2 alturas")
+alturas=int(input("ingrese la cantidad de alturas que tiene: "))
+suma=0
+for i in range(alturas):
+    altura=float (input(f"ingrese altura en metros: #{i+1} "))
+    suma=suma+altura
+promedio=suma/altura
+print (f"el promedio de las  {alturas} alturas  es de =  {promedio:.2f} metros" )

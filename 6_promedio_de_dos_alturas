@@ -1,0 +1,7 @@
+#para generar el promedio de dos alturas tenemos que saber la formula , en este caso la formula seria=
+#promedio=(altura1+altura2)/2
+print ("calcularemos el promedio de 2(dos) alturas")
+altura1=float(input ("cual es la altura del primer objeto que quieres promediar en METROS: "))
+altura2=float(input ("ahora dime la altura del segundo objeto EN METROS: "))
+promedio=((altura1+altura2)/2)
+print ("el promedio de las 2 altura es de = ", promedio,"metros" )

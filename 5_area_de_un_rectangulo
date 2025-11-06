@@ -1,0 +1,6 @@
+#para calcular el area de un rectangulo tenemos que tener la formula que es 
+#area = base x altura
+base=float(input ("de cuanto es la BASE  en metros del rectangulo? "))
+altura=float(input ("de cuanto es la ALTURA en metros del Rectangulo?"))
+Area=(base * altura)
+print("El área del rectángulo que me diste es de:", Area, "metros cuadrados")
